@@ -17,7 +17,7 @@
 1. With your GitHub account, *fork* this repository as /yourAccount/DS1111/, which is a new copy of this repository.
 2. By GitHub Desktop tool, *clone* the above copy on your own computer and then click "Show in Explorer" to its folder.
 3. Choose one of the folders such as /DS1111/ex01/, create your own folder named by *studentID*, e.g., /DS1111/ex01/11027199/.
-4. In your own folder /DS1111/ex0#/*YourStudentID*/, create DS1ex#_*YourStudentID*.ipynb by Jupyter Notebook. 
+4. In your own folder /DS1111/ex0#/*YourStudentID*/, create DS1ex0#_*YourStudentID*.ipynb by Jupyter Notebook. 
 5. By GitHub Desktop tool, *commit* and then *push* the new version to your own GitHub account.
 6. With your GitHub account, submit a *Pull Request* to ask me whether your folder can be merged into my repository.
 7. Wait for my check and then you will see your folder in this repository with my approval.
